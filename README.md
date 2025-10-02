@@ -1,6 +1,6 @@
-👋 Hi, I'm 𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔
-👀 I'm Interested in Python
-🌱 I'm Currently Learning Python and I am developing my knowledge.
+👋 Hi, my name is 𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔
+👀 I'm interested in Python
+🌱 I'm currently learning Python and studying at SharkCoder's to further improve my skills.
 
 
 <!---
