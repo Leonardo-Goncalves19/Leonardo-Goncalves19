@@ -13,6 +13,6 @@ Olá! Eu sou o Leonardo, estudo programação em portugal e procuro sempre evolu
 
 <div> 
   <a href="https://github.com/Leonardo-Goncalves19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://sharkcoders.com" target="_blank"><img src="https://img.shields.io/badge/SharkCoders-00BFFF?style=for-the-badge&logo=codewars&logoColor=white"></a>
+  <a href="https://www.sharkcoders.pt" target="_blank"><img src="https://img.shields.io/badge/SharkCoders-00BFFF?style=for-the-badge&logo=codewars&logoColor=white"></a>
   <a href="https://my-portfolio-vert-five-27.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge&logo=googlesites&logoColor=white"></a>
 </div>
